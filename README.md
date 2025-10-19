@@ -1,7 +1,10 @@
 # Procedural Jellyfish
 
+## Render (unfinished)
+<video src="Assets/JellyFlipbook.mp4" width="1280" height="720"><video/>
+
 ## Project Overview
-I created a procedural jellyfish suing Houdini. 
+I created a procedural jellyfish using Houdini. 
 
 ## Bell <br>
 Followed this tutorial: https://www.youtube.com/watch?v=J3X8BB0yNRE
@@ -21,6 +24,7 @@ Box modeled in Houdini and copied & transformed.
 
 ## Tentacles <br>
 Learned about hair simulation from this video: https://www.youtube.com/watch?v=LN4XXaHQkmU 
+<img width="1194" height="665" alt="image" src="https://github.com/user-attachments/assets/26cc9101-8e66-4b76-a8d4-6bc19a2f9839" />
 
 ---
 
