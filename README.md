@@ -20,8 +20,7 @@ Box modeled in Houdini and copied & transformed.
 <img width="826" height="629" alt="image" src="https://github.com/user-attachments/assets/683b9855-9f64-4cc5-a8aa-7fa3b7f8c978" />
 
 ## Tentacles <br>
-Gained inspiration from the following videos: 
-- https://www.youtube.com/watch?v=LN4XXaHQkmU 
+Learned about hair simulation from this video: https://www.youtube.com/watch?v=LN4XXaHQkmU 
 
 ---
 
