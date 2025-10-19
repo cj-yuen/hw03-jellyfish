@@ -1,6 +1,31 @@
 # Procedural Jellyfish
 
 ## Project Overview
+I created a procedural jellyfish suing Houdini. 
+
+## Bell <br>
+Followed this tutorial: https://www.youtube.com/watch?v=J3X8BB0yNRE
+<img width="707" height="624" alt="image" src="https://github.com/user-attachments/assets/e91ea436-cf52-449a-b464-c7ebdb9d34d9" />
+
+## Arms <br>
+Followed this tutorial: https://www.youtube.com/watch?v=A_oNXqx8XH4
+<img width="765" height="683" alt="image" src="https://github.com/user-attachments/assets/239eac5d-7fa1-40bd-bc77-ab278c389e9e" />
+
+## Veins <br>
+Made use of the 'Find Shortest Path' node in Houdini to create vein-like objects for my jellyfish bell.
+<img width="740" height="625" alt="image" src="https://github.com/user-attachments/assets/0e40cbc3-e259-42a6-9326-9dc00fcd0d2b" />
+
+## Organs <br>
+Box modeled in Houdini and copied & transformed.
+<img width="826" height="629" alt="image" src="https://github.com/user-attachments/assets/683b9855-9f64-4cc5-a8aa-7fa3b7f8c978" />
+
+## Tentacles <br>
+Gained inspiration from the following videos: 
+- https://www.youtube.com/watch?v=LN4XXaHQkmU 
+
+---
+
+## Project Overview
 In this homework, you'll create a procedural jellyfish using Houdini. This will give you a chance to dig into procedural modeling, as well as some simulation. Here is a breakdown of the different jellyfish parts you'll be putting together:
 
 <img height="500" alt="Jellyfish Parts" src="/assets/JellyfishParts.png">
