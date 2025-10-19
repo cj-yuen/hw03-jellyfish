@@ -1,7 +1,8 @@
 # Procedural Jellyfish
 
 ## Render (unfinished)
-<video src="Assets/JellyFlipbook.mp4" width="1280" height="720"><video/>
+https://github.com/user-attachments/assets/70506fce-6eea-45bf-8cf6-644d48fca5bd
+
 
 ## Project Overview
 I created a procedural jellyfish using Houdini. 
