@@ -1,6 +1,6 @@
 # Procedural Jellyfish
 
-## Render (unfinished)
+## Render (base material)
 https://github.com/user-attachments/assets/70506fce-6eea-45bf-8cf6-644d48fca5bd
 
 
